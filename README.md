@@ -1,4 +1,6 @@
-# Katapult  (formerly known as CanBoot)
+# Katapult For Moment (formerly known as CanBoot)
+ Based on Klipper. customized Moment klipper.
+ 
  Bootloader for ARM Cortex-M MCUs
 
  This bootloader was initially designed for CAN nodes to be used with
