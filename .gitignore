@@ -55,3 +55,9 @@ dkms.conf
 .config.old
 *.pyc
 out/
+
+.vs/
+.vs/*
+.bin/
+.obj/
+.vs
